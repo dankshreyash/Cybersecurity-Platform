@@ -42,7 +42,7 @@ npm run dev
 npm run build
 npm run preview   # Preview the production build locally
 ```
-## Login Details
+## Login Details Dummy
 
 - **First Name:** John  
 - **Last Name:** Doe  
