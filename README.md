@@ -42,3 +42,8 @@ npm run dev
 npm run build
 npm run preview   # Preview the production build locally
 ```
+<!--  :LOGIN DETAILS  -->
+<!-- first name : john  -->
+<!-- last name : doe  -->
+<!-- email address  : johndoe@gmail.com  -->
+<!-- password : asdfghjkl  -->
