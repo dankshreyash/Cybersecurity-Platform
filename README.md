@@ -22,7 +22,7 @@ A production-grade React application for a B2B SaaS cybersecurity platform with 
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/dankshreyash/Cybersecurity-Platform.git
 cd assignment2
 
 # Install dependencies
