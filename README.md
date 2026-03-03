@@ -4,12 +4,11 @@ A production-grade React application for a B2B SaaS cybersecurity platform with 
 
 ## Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| **React 19**  |
+| Technology 
+| **React 19**  
 | **Tailwind CSS v4** | 
-| **React Router v7** | Client-side routing |
-| **Context API** | Global state (theme, toasts) |
+| **React Router v7** | 
+| **Context API** |
 
 ## Setup Instructions
 
